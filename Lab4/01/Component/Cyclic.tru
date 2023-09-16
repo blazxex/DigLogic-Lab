@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<truthTable>
+  <variables>
+    <variable name="A"/>
+    <variable name="B"/>
+    <variable name="C"/>
+    <variable name="D"/>
+  </variables>
+  <results>
+    <result>
+      <name>Y</name>
+      <values class="BoolTable">0000000011000000</values>
+    </result>
+    <result>
+      <name>X</name>
+      <values class="BoolTable">0000111111000000</values>
+    </result>
+    <result>
+      <name>W</name>
+      <values class="BoolTable">0011110000000000</values>
+    </result>
+    <result>
+      <name>V</name>
+      <values class="BoolTable">0110011001000000</values>
+    </result>
+  </results>
+</truthTable>
